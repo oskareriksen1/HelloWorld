@@ -1,0 +1,40 @@
+kegh0001@stud.kea.dk,Kevin Ramo,Ghavidel
+oska1001@stud.kea.dk,Oskar Liisbjerg,Eriksen
+mapo0004@stud.kea.dk,Martin Sven,Poulsen
+sedr0001@stud.kea.dk,Sebastian Holger,Drumm
+enti0001@stud.kea.dk,Enes,Tiftikci
+mada0003@stud.kea.dk,Mathias Villads,Dalberg
+hamo0001@stud.kea.dk,Hamdi Hassan,Moalin
+haah0001@stud.kea.dk,Hamsa,Ahmed Hassan
+asat0001@stud.kea.dk,Assil Nasser,Attiah
+jaha0004@stud.kea.dk,Jannick Mathias,Hansen
+haab0001@stud.kea.dk,Haider Mohammed Hussein,Abbas
+lala0002@stud.kea.dk,Laurits Schou,Larsen
+debe0001@stud.kea.dk,Deanne Camille,Bergke
+alel0003@stud.kea.dk,Aleksander Hvid,Ellegård
+asjo0001@stud.kea.dk,Aske Sebech,Johanson
+joth0003@stud.kea.dk,Johan Robert,Thulin
+alse0001@stud.kea.dk,Ali,Selimi
+jovi0002@stud.kea.dk,Jonas,Vistrup
+lupo0001@stud.kea.dk,Luna,Pollier
+yudo0001@stud.kea.dk,Yusuf Qasim,Doski
+frha0002@stud.kea.dk,Frederik Rudkjøbing,Hansen
+jera0002@stud.kea.dk,Jens Christian,Ravn
+kaha0003@stud.kea.dk,Kasper Kristoffer,Hansen
+clsc0001@stud.kea.dk,Clara Vejlø,Schlemmer
+dape0001@stud.kea.dk,Daniel Gullbrand,Petersen
+sesc0002@stud.kea.dk,Severin Frouvne,Schademan
+abwa0001@stud.kea.dk,Abdallah Saeed Ibrahim,Wais
+hafr0003@stud.kea.dk,Hauge Saabye,From
+tutu0001@stud.kea.dk,Tunahan,Turan
+vibe0002@stud.kea.dk,Viggo Møhring,Beck
+anbe0002@stud.kea.dk,Anton,Becker
+vira0004@stud.kea.dk,Viktor,Rasmussen
+lafo0001@stud.kea.dk,Lasse,Fosgaard
+mael0003@stud.kea.dk,Mads Fosgaard,Eller
+yoel0001@stud.kea.dk,Youssef,El-Mannouti
+bjli0001@stud.kea.dk,Bjarke Find,Linnetved
+mabr0004@stud.kea.dk,Magnus Munk,Braunstein
+thom54s8@stud.kea.dk,Thomas,Gavrilescu
+masv0002@stud.kea.dk,Magnus,Svensson
+hind0163@stud.kea.dk,Hind Ahmad,Maarouf
